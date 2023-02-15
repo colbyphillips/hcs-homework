@@ -71,7 +71,7 @@ li div {
   height: 200px;
   top: 60px;
   left: 85px;
-}*/
+}
 
 li:hover div {
   border: 2px solid black;
@@ -119,7 +119,7 @@ li:hover div {
 
 .randb {
   left: 1207px;
-}
+}*/
 
 .home-icon {
   list-style-image: url(/Users/c.phillips/projects/html-css/homework-music-wiki/home.png);

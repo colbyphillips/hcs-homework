@@ -12,14 +12,15 @@ h1 {
   text-align: center;
   margin: 25px;
   font-size: 40px;
-  font-family: ;
+
 }
 
-ol {
+ul {
   text-align: center;
   padding: 6px;
   font-weight: bold;
   font-family: geneva;
+  text-align: row;
 }
 
 .hr1 {
@@ -69,5 +70,5 @@ ol {
   margin-left: auto;
   margin-right: auto;
   box-shadow: 0 0 4px;
-  
+
 }
